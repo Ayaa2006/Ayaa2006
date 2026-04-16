@@ -35,7 +35,7 @@
 
 ### 🤝 Connect with me
 * [cite_start]**LinkedIn:** [linkedin.com/in/ayaelabdllaoui](https://linkedin.com/in/ayaelabdllaoui)[cite: 2].
-* [cite_start]**Email:** elabdilaouiaya520@gmail.com[cite: 2].
+* [cite_start]**Email:** elabdllaouiaya520@gmail.com[cite: 2].
 * [cite_start]**Langues :** Arabe (Maternel), Français (Avancé), Anglais (Intermédiaire)[cite: 34, 35, 36].
 
 ---
