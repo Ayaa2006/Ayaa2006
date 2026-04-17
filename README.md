@@ -5,8 +5,6 @@
 ###
 <h2 align="left">Hi 👋! My name is Aya El Abdllaoui and I'm a Computer Engineering Student, from Casablanca, Morocco.</h2>
 
-###
-![Aya El Abdllaoui Banner](https://github.com/Ayaa2006/Ayaa2006/blob/main/assets/banner.png) <img alt="Hand Wave" src="https://raw.githubusercontent.com/Ayaa2006/Ayaa2006/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aya El Abdllaoui</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -61,9 +59,9 @@
 
 ### 🎖 &nbsp;Certifications
 
-* [cite_start]**Data Analyst** - DataCamp [cite: 30]
-* [cite_start]**OCI AI Foundations** - Oracle Cloud Infrastructure [cite: 31]
-* [cite_start]**EcoRise Program** - Certificate of Participation [cite: 31]
+* **Data Analyst** - DataCamp
+* **OCI AI Foundations** - Oracle Cloud Infrastructure
+* **EcoRise Program** - Certificate of Participation
 
 ### 🤝🏻 &nbsp;Connect with Me
 
