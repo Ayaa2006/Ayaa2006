@@ -10,14 +10,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-[cite_start]👨‍💻 &nbsp;I am a Computer Engineering, AI, and Data Science Student at EST Essaouira[cite: 4, 8, 9].
-[cite_start]💡 &nbsp;I specialize in developing web and mobile solutions, including smart reservation systems and AI-powered tools[cite: 5, 13, 14].
-[cite_start]🎓 &nbsp;Currently pursuing a Bachelor's degree in Computer Engineering, Artificial Intelligence, and Data Science.
-[cite_start]🌱 &nbsp;Exploring advanced fields in AI detection, cheat monitoring systems, and automated pedagogical paths[cite: 23, 24].
-[cite_start]✍️ &nbsp;In my free time, I am an active member of the Tech IC University Club and involve myself in volunteer work[cite: 33].
-[cite_start]💬 &nbsp;Feel free to reach out to me for collaborations in Web/Mobile development or Data Science projects[cite: 5].
-[cite_start]✉️ &nbsp;You can shoot me an email at elabdilaouiaya520@gmail.com! 
-[cite_start]📄 &nbsp;Please have a look at my [LinkedIn](https://linkedin.com/in/ayaelabdllaoui) for more details about my background.
+👨‍💻 &nbsp;I am a Computer Engineering, AI, and Data Science Student at EST Essaouira.
+💡 &nbsp;I specialize in developing web and mobile solutions, including smart reservation systems and AI-powered tools.
+🎓 &nbsp;Currently pursuing a Bachelor's degree in Computer Engineering, Artificial Intelligence, and Data Science.
+🌱 &nbsp;Exploring advanced fields in AI detection, cheat monitoring systems, and automated pedagogical paths.
+✍️ &nbsp;In my free time, I am an active member of the Tech IC University Club and involve myself in volunteer work.
+💬 &nbsp;Feel free to reach out to me for collaborations in Web/Mobile development or Data Science projects.
+✉️ &nbsp;You can shoot me an email at elabdilaouiaya520@gmail.com! 
+📄 &nbsp;Please have a look at my [LinkedIn](https://linkedin.com/in/ayaelabdllaoui) for more details about my background.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
